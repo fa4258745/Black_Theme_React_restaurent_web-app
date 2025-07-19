@@ -1,0 +1,325 @@
+
+{
+  "CART": [
+    {
+      "id": 1,
+      "productName": "Pepperoni Pizza",
+      "category": "pizza",
+      "price": 350,
+      "quantity": 2,
+      "images": "/images/pizza-2.avif"
+    },
+    {
+      "id": 2,
+      "productName": "Basil Pasta",
+      "price": 250,
+      "category": "pasta",
+      "quantity": 1,
+      "images": "../images/pasta-with-tomato-basil-grated-cheese.jpg"
+    },
+    {
+      "id": 3,
+      "productName": "Burger",
+      "price": 120,
+      "category": "burger",
+      "quantity": 3,
+      "images": "../images/StockCake-Juicy evening burger_1746719141.jpg"
+    },
+    {
+      "id": 4,
+      "productName": "Mezze Spread",
+      "category": "pasta",
+      "price": 220,
+      "quantity": 4,
+      "images": "../images/StockCake-Spiral Pasta Art_1746719116.jpg"
+    },
+    {
+      "id": 5,
+      "productName": "Burger",
+      "category": "burger",
+      "price": 120,
+      "quantity": 2,
+      "images": "../images/tasty-burger-1.jpg"
+    },
+    {
+      "id": 6,
+      "productName": "Vegie Delight Pizza",
+      "price": 300,
+      "quantity": 1,
+      "category": "pizza",
+      "images": "../images/pizza-2 - Copy.jpg"
+    },
+    {
+      "id": 7,
+      "productName": "Classic Pizza",
+      "price": 280,
+      "quantity": 3,
+      "category": "pizza",
+      "images": "./images/pizza-3.jpg"
+    },
+    {
+      "id": 8,
+      "productName": "Pasta",
+      "price": 180,
+      "quantity": 4,
+      "images": "/images/pasta.jpg",
+      "category": "pasta"
+    },
+    {
+      "id": 9,
+      "productName": "Large Burger",
+      "category": "burger",
+      "price": 180,
+      "quantity": 4,
+      "images": "/images/Burger-1 (1).png"
+    },
+    {
+      "id": 10,
+      "productName": "Supreme Pizza",
+      "category": "pizza",
+      "price": 400,
+      "quantity": 4,
+      "images": "/images/pizza-1.jpg"
+    },
+    {
+      "id": 11,
+      "productName": "Buger",
+      "category": "burger",
+      "price": 130,
+      "quantity": 4,
+      "images": "/images/Burger6.png"
+    },
+    {
+      "id": 12,
+      "productName": "Noodles",
+      "category": "pasta",
+      "price": 160,
+      "quantity": 4,
+      "images": "/images/Pasta5.png"
+    },
+    {
+      "id": 13,
+      "productName": "Cherry Juice",
+      "category": "drinks",
+      "price": 90,
+      "quantity": 4,
+      "images": "/images/cherry-juice.png"
+    },
+    {
+      "id": 14,
+      "productName": "Lemonade",
+      "category": "drinks",
+      "price": 50,
+      "quantity": 4,
+      "images": "/images/lemonade-2097312.jpg"
+    },
+    {
+      "id": 15,
+      "productName": "Cola",
+      "category": "drinks",
+      "price": 40,
+      "quantity": 4,
+      "images": "/images/cola-1774702.jpg"
+    },
+    {
+      "id": 16,
+      "productName": "Ginger Juice",
+      "category": "drinks",
+      "price": 80,
+      "quantity": 4,
+      "images": "/images/ginger-juice-4896003.jpg"
+    },
+    {
+      "id": 17,
+      "productName": "Beverage",
+      "category": "drinks",
+      "price": 100,
+      "quantity": 4,
+      "images": "/images/beverage-5475034.jpg"
+    },
+    {
+      "id": 18,
+      "productName": "Veg-Burger",
+      "category": "burger",
+      "price": 100,
+      "quantity": 4,
+      "images": "/images/Veg-burger.jpg"
+    },
+    {
+      "id": 19,
+      "productName": "Tomato Pizza",
+      "category": "pizza",
+      "price": 200,
+      "quantity": 4,
+      "images": "/images/tomato-8902524_1920.png"
+    },
+    {
+      "id": 20,
+      "productName": "Orange Juice",
+      "category": "drinks",
+      "price": 60,
+      "quantity": 4,
+      "images": "/images/orange-juice.png"
+    },
+    {
+      "id": 21,
+      "productName": "Cherry Ice",
+      "category": "drinks",
+      "price": 100,
+      "quantity": 4,
+      "images": "/images/refreshing-cherry-ice-drink-summer-beverage-red-cold-tasty.png"
+    },
+    {
+      "id": 22,
+      "productName": "Lemon Juice",
+      "category": "drinks",
+      "price": 40,
+      "quantity": 4,
+      "images": "/images/lemon-juice.jpg"
+    },
+    {
+      "id": 23,
+      "productName": "Cold Coffee",
+      "category": "drinks",
+      "price": 90,
+      "quantity": 4,
+      "images": "/images/cold-coffee-8981086.jpg"
+    },
+    {
+      "id": 24,
+      "productName": "Orange Juice",
+      "category": "drinks",
+      "price": 60,
+      "quantity": 4,
+      "images": "/images/Orange-juice (2).png"
+    },
+    {
+      "id": 25,
+      "productName": "Sapghetti Pasta",
+      "category": "pasta",
+      "price": 200,
+      "quantity": 4,
+      "images": "/images/spaghetti-9335477_1280.png"
+    },
+    {
+      "id": 26,
+      "productName": "Pepproni Basil Pizza",
+      "category": "pizza",
+      "price": 350,
+      "quantity": 4,
+      "images": "/images/pizza-6.png"
+    },
+    {
+      "id": 27,
+      "productName": "Margherita Pizza",
+      "category": "pizza",
+      "price": 250,
+      "quantity": 4,
+      "images": "/images/Margerita-Pizza.png"
+    },
+    {
+      "id": 28,
+      "productName": "Cheesy Pepproni Pizza",
+      "category": "pizza",
+      "price": 370,
+      "quantity": 4,
+      "images": "/images/Pepporoni-pizza.png"
+    },
+    {
+      "id": 29,
+      "productName": "Veggie Deluxe Pizza",
+      "category": "pizza",
+      "price": 280,
+      "quantity": 4,
+      "images": "/images/pizza-9.png"
+    },
+    {
+      "id": 30,
+      "productName": "Tomato Eggplant Pizza",
+      "category": "pizza",
+      "price": 260,
+      "quantity": 4,
+      "images": "/images/pizza-10.png"
+    },
+    {
+      "id": 31,
+      "productName": "Butter Chicken",
+      "category": "indianfood",
+      "price": 220,
+      "quantity": 4,
+      "images": "/images/Butter-chicken.png"
+    },
+    {
+      "id": 32,
+      "productName": "Chole-Bhature",
+      "category": "indianfood",
+      "price": 100,
+      "quantity": 4,
+      "images": "/images/Chole-Bhature.png"
+    },
+    {
+      "id": 33,
+      "productName": "Biryani",
+      "category": "indianfood",
+      "price": 180,
+      "quantity": 4,
+      "images": "/images/Biryani.png"
+    },
+    {
+      "id": 34,
+      "productName": "Dal-Makhni",
+      "category": "indianfood",
+      "price": 160,
+      "quantity": 4,
+      "images": "/images/Dal-Makhni.png"
+    },
+    {
+      "id": 35,
+      "productName": "Idli-Dosa",
+      "category": "indianfood",
+      "price": 120,
+      "quantity": 4,
+      "images": "/images/Idli-Dosa.png"
+    },
+    {
+      "id": 36,
+      "productName": "Palak-Paneer",
+      "category": "indianfood",
+      "price": 180,
+      "quantity": 4,
+      "images": "/images/Palak-Paneer.png"
+    },
+    {
+      "id": 37,
+      "productName": "Paneer-Tikka",
+      "category": "indianfood",
+      "price": 200,
+      "quantity": 4,
+      "images": "/images/Paneer-Tikka.png"
+    },
+    {
+      "id": 38,
+      "productName": "Rogan-Josh",
+      "category": "indianfood",
+      "price": 250,
+      "quantity": 4,
+      "images": "/images/Rogan-Josh.png"
+    },
+    {
+      "id": 39,
+      "productName": "Samosa",
+      "category": "indianfood",
+      "price": 30,
+      "quantity": 4,
+      "images": "/images/Samosa.png"
+    },
+    {
+      "id": 40,
+      "productName": "Aloo-Paratha",
+      "category": "indianfood",
+      "price": 60,
+      "quantity": 4,
+      "images": "/images/Aloo-Paratha.png"
+    }
+  ]
+}

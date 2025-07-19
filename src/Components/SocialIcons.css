@@ -1,0 +1,228 @@
+/* 
+
+.container-icons {
+  display: flex;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+}
+
+ul {
+  display: flex;
+}
+
+ul li {
+  position: relative;
+  display: block;
+  font-size: 20px;
+  height: 40px;
+  width: 40px;
+  background: #171515;
+  line-height: 40px;
+  border-radius: 50%;
+  margin: 0 10px;
+  cursor: pointer;
+  transition: 0.5s;
+}
+
+ul li:before {
+  position: absolute;
+  content: '';
+  top: 0;
+  left: 0;
+  height: inherit;
+  width: inherit;
+  border-radius: 50%;
+  transform: scale(0.9);
+  z-index: -1;
+  transition: 0.5s;
+}
+
+ul li:nth-child(1):before {
+  background: #4267B2;
+}
+ul li:nth-child(2):before {
+  background: #1DA1F2;
+}
+ul li:nth-child(3):before {
+  background: #E1306C;
+}
+ul li:nth-child(4):before {
+  background: #2867B2;
+}
+ul li:nth-child(5):before {
+  background: #ff0000;
+}
+
+ul li:hover:before {
+  filter: blur(3px);
+  transform: scale(1.2);
+}
+
+ul li:nth-child(1):hover:before {
+  box-shadow: 0 0 15px #4267B2;
+}
+ul li:nth-child(2):hover:before {
+  box-shadow: 0 0 15px #1DA1F2;
+}
+ul li:nth-child(3):hover:before {
+  box-shadow: 0 0 15px #E1306C;
+}
+ul li:nth-child(4):hover:before {
+  box-shadow: 0 0 15px #2867B2;
+}
+ul li:nth-child(5):hover:before {
+  box-shadow: 0 0 15px #ff0000;
+}
+
+ul li:nth-child(1):hover {
+  color: #456cba;
+  box-shadow: 0 0 15px #4267B2;
+  text-shadow: 0 0 15px #4267B2;
+}
+ul li:nth-child(2):hover {
+  color: #26a4f2;
+  box-shadow: 0 0 15px #1DA1F2;
+  text-shadow: 0 0 15px #1DA1F2;
+}
+ul li:nth-child(3):hover {
+  color: #e23670;
+  box-shadow: 0 0 15px #E1306C;
+  text-shadow: 0 0 15px #E1306C;
+}
+ul li:nth-child(4):hover {
+  color: #2a6cbb;
+  box-shadow: 0 0 15px #2867B2;
+  text-shadow: 0 0 15px #2867B2;
+}
+ul li:nth-child(5):hover {
+  color: #ff1a1a;
+  box-shadow: 0 0 15px #ff0000;
+  text-shadow: 0 0 15px #ff0000;
+} */
+
+
+
+
+
+
+
+
+.container-icons {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  background-color: #333333;
+}
+
+.social-list {
+  display: flex;
+}
+
+.social-item {
+  position: relative;
+  display: block;
+  font-size: 20px;
+  height: 40px;
+  width: 40px;
+  background: #171515;
+  line-height: 40px;
+  border-radius: 50%;
+  margin: 0 10px;
+  cursor: pointer;
+  transition: 0.5s;
+  text-align: center;
+}
+
+.social-item:before {
+  position: absolute;
+  content: '';
+  top: 0;
+  left: 0;
+  height: inherit;
+  width: inherit;
+  border-radius: 50%;
+  transform: scale(0.9);
+  z-index: -1;
+  transition: 0.5s;
+}
+
+
+
+.social-item .icon-facebook,
+.social-item .icon-twitter,
+.social-item .icon-instagram,
+.social-item .icon-linkedin,
+.social-item .icon-youtube {
+  color: #666;
+  color:#fff;
+  transition: 0.3s;
+
+}
+
+.facebook:before {
+  background: #4267B2;
+}
+.twitter:before {
+  background: #1DA1F2;
+}
+.instagram:before {
+  background: #E1306C;
+}
+.linkedin:before {
+  background: #2867B2;
+}
+.youtube:before {
+  background: #ff0000;
+}
+.heart-icon:hover{
+    color: #ff1a1a;
+  text-shadow: 0 0 15px #ff0000;
+    filter: blur(1px);
+  transform: scale(1.2);
+}
+
+
+.social-item:hover:before {
+  filter: blur(3px);
+  transform: scale(1.2);
+}
+
+.facebook:hover:before {
+  box-shadow: 0 0 15px #4267B2;
+}
+.twitter:hover:before {
+  box-shadow: 0 0 15px #1DA1F2;
+}
+.instagram:hover:before {
+  box-shadow: 0 0 15px #E1306C;
+}
+.linkedin:hover:before {
+  box-shadow: 0 0 15px #2867B2;
+}
+.youtube:hover:before {
+  box-shadow: 0 0 15px #ff0000;
+}
+
+.facebook:hover .icon-facebook {
+  color: #456cba;
+  text-shadow: 0 0 15px #4267B2;
+}
+.twitter:hover .icon-twitter {
+  color: #26a4f2;
+  text-shadow: 0 0 15px #1DA1F2;
+}
+.instagram:hover .icon-instagram {
+  color: #e23670;
+  text-shadow: 0 0 15px #E1306C;
+}
+.linkedin:hover .icon-linkedin {
+  color: #2a6cbb;
+  text-shadow: 0 0 15px #2867B2;
+}
+.youtube:hover .icon-youtube {
+  color: #ff1a1a;
+  text-shadow: 0 0 15px #ff0000;
+}
+
